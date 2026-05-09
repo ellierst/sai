@@ -1,4 +1,4 @@
 1 L
-2 м_small
+2 m
 3 Q
-4 M_big
+4 M
